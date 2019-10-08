@@ -25,7 +25,7 @@ header {
 	flex-direction: row;
 }
 .backgrounds {
-	background-image: url(./../../../public/public/img/Layer37.jpg);
+	background-image: url(/Mainfolder/my-app/src/public/public/img/Layer37.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	width: 100%;

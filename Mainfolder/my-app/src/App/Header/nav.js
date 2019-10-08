@@ -1,6 +1,6 @@
 import React from 'react'
 
-import './../common/style/navigate.css'
+import '/blog2/Mainfolder/my-app/src/common/style/navigate.css'
 
 const nav = () => {
     return (

@@ -17,6 +17,8 @@ const Main = () => {
             <div className="right_col" id="right_c">
                 <blocktwo_one/>
                 <blocktwo_two/>
+                <blocktwo_one/>
+                <blocktwo_two/>
             </div>
         </div>
     )

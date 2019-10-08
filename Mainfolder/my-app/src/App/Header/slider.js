@@ -1,6 +1,6 @@
 import React from 'react'
 
-import './../common/style/slides.css'
+import '/blog2/Mainfolder/my-app/src/common/style/slider/slides.css'
 
 const slider = () => {
     return (
