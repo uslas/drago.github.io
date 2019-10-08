@@ -1,5 +1,6 @@
 import React from 'react'
 
+import '/blog2/Mainfolder/my-app/src/common/style/logo.css'
 
 const logofoot = () => {
     return (

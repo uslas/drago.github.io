@@ -1,5 +1,7 @@
 import React from 'react'
 
+import '/blog2/Mainfolder/my-app/src/common/style/footer.css'
+
 const lowerinfo = () => {
     return (
         <div>
