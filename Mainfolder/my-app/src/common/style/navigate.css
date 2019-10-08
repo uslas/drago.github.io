@@ -1,0 +1,18 @@
+.navigate {
+	margin-top: 60px;
+	z-index: 2;
+	width: 490px;
+	font-size: 23pt;
+	font-style: italic;
+}
+.navigate ul li a {
+	color: #c4ced1;
+}
+.navstyle {
+	position: relative;
+	display: flex;
+	justify-content: space-between;
+}
+.nav_l:hover {
+	color: #ffc908;
+}

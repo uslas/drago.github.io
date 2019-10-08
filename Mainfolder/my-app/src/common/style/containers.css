@@ -1,0 +1,17 @@
+.container2 {
+	display: flex;
+	justify-content: space-around;
+	margin: 20px;
+}
+.container2#left_c {
+	flex-grow: 1;
+	width: 30%;
+	display: flex;
+	justify-content: space-around;
+	margin-left: 20px
+}
+.container2#right_c {
+	flex-grow: 4;
+	display: flex;
+	justify-content: space-around;
+}

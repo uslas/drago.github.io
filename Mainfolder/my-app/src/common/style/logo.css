@@ -1,0 +1,10 @@
+.naming {
+	position: relative;
+	width: 340px;
+	height: 100px;
+	z-index: 2;
+	margin-top: 35px;
+	color: #c4ced1;
+	font-size: 65px;
+	margin-left: 115px;
+}

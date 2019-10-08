@@ -1,0 +1,42 @@
+.mainslider {
+	position: absolute;
+	margin: 10px auto;
+	width: 800px;
+	height: 100px;
+}
+.slides {
+	position: relative;
+}
+.text_sl {
+	margin-left:200px;
+}
+.slide_h {
+	font-size: 40pt;
+    font-weight: bolder;
+    font-kerning: none;
+    color: #ffffff;
+}
+.slide_p {
+	color: #ffffff;
+	font-size: 35pt;
+	font-style: italic;
+}
+.slide_b {
+    border: 4px solid #343d37;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    overflow: visible;
+    background-color: #296f4e;
+    color: inherit;
+    font: inherit;
+    line-height: normal;
+    -webkit-font-smoothing: inherit;
+    -webkit-appearance: none;
+	font-size: 19pt;
+    width: 180px;
+    color: white;
+    text-align: center;
+    height: 55px;
+    cursor: pointer;
+}
