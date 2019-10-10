@@ -1,24 +1,24 @@
 import React from 'react'
 
-import blockone from './blockone'
-import blocktwo from './blocktwo'
-import blocktwo_one from './blocktwo_one'
-import blocktwo_two from './blocktwo_two'
-import blockthree from './blockthree'
+import Blockone from './Sidebar/Blockone'
+import Blocktwo from './Sidebar/Blocktwo'
+import NewsListOne from './NewsList/NewsListOne'
+import NewsListTwo from './NewsList/NewsListTwo'
+import Blockthree from './Sidebar/Blockthree'
 
 const Main = () => {
     return (
         <div class="container2 row">
 			<div class="left_col" id="left_c">
-                <blockone/>
-                <blocktwo/>
-                <blockthree/>
+                <Blockone/>
+                <Blocktwo/>
+                <Blockthree/>
             </div>
             <div className="right_col" id="right_c">
-                <blocktwo_one/>
-                <blocktwo_two/>
-                <blocktwo_one/>
-                <blocktwo_two/>
+                <NewsListOne></NewsListOne>
+                <NewsListTwo></NewsListTwo>
+                <NewsListOne></NewsListOne>
+                <NewsListTwo></NewsListTwo>
             </div>
         </div>
     )

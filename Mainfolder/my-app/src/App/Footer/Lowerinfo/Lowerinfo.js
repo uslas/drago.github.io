@@ -2,7 +2,7 @@ import React from 'react'
 
 import '/blog2/Mainfolder/my-app/src/common/style/footer.css'
 
-const lowerinfo = () => {
+const Lowerinfo = () => {
     return (
         <div>
         <div className="case_1">
@@ -30,4 +30,4 @@ const lowerinfo = () => {
         </div>
     )
 }
-export default lowerinfo
+export default Lowerinfo

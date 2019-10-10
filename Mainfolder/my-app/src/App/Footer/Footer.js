@@ -1,13 +1,13 @@
 import React from 'react'
 
-import logofoot from './logo'
-import lowerinfo from './lowerinfo'
+import Logofoot from './Logo/Logofoot'
+import Lowerinfo from './Lowerinfo/Lowerinfo'
 
 const Footer = () => {
     return (
         <div className="container3">
-            <logo/>
-            <lowerinfo/>
+            <Logofoot/>
+            <Lowerinfo/>
         </div>
         
     )

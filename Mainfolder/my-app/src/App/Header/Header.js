@@ -1,18 +1,17 @@
 import React from 'react'
 
-import logo from './logo'
-import nav from './nav'
-import slider from '/slider'
+import Logo from './Logo/Logo'
+import Nav from './Nav/Nav'
+
 
 
 const Header = () => {
     return (
         <header className="backgrounds">
 		    <div className="container row">
-                <logo/>
-                <nav/>
+                <Logo />
+                <Nav />
             </div>
-                <slider/>
     </header>
     )
 }

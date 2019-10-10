@@ -2,7 +2,7 @@ import React from 'react'
 
 import '/blog2/Mainfolder/my-app/src/common/style/navigate.css'
 
-const nav = () => {
+const Nav = () => {
     return (
         <div className="navigate">
 				<ul className="navstyle">
@@ -14,4 +14,4 @@ const nav = () => {
 			</div>
     )
 }
-export default nav
+export default Nav

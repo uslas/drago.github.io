@@ -2,7 +2,7 @@ import React from 'react'
 
 import '/blog2/Mainfolder/my-app/src/common/style/left_c.css'
 
-const blockthree = () => {
+const Blockthree = () => {
     return (
         <div className="block_3">
 						<div className="categ">
@@ -25,4 +25,4 @@ const blockthree = () => {
 				</div>
     )
 }
-export default blockthree
+export default Blockthree

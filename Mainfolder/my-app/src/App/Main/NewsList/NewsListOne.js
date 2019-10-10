@@ -2,7 +2,7 @@ import React from 'react'
 
 import '/blog2/Mainfolder/my-app/src/common/style/right_c.css'
 
-const blocktwo_one = () => {
+const NewsListOne = () => {
      return (
         <div className="block_2_1">
         <div className="various1">
@@ -21,4 +21,4 @@ const blocktwo_one = () => {
     </div>
      )
 }
-export default blocktwo_one
+export default NewsListOne

@@ -2,7 +2,7 @@ import React from 'react'
 
 import '/blog2/Mainfolder/my-app/src/common/style/right_c.css'
 
-const blocktwo_two = () => {
+const NewsListTwo = () => {
     return (
         <div className="block_2_2">
 						<div className="block_2_3"><img src="img/timetravel11.jpg" alt=""></img><a className="image_sec" href=""><button className="readimg"><p className="read_t">read more</p></button></a>
@@ -21,4 +21,4 @@ const blocktwo_two = () => {
 					</div>
     )
 }
-export default blocktwo_two
+export default NewsListTwo

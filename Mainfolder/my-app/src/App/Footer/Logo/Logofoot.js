@@ -2,7 +2,7 @@ import React from 'react'
 
 import '/blog2/Mainfolder/my-app/src/common/style/logo.css'
 
-const logofoot = () => {
+const Logofoot = () => {
     return (
         <div class="logo_2">
         <h1 class="naming_2">Leo's travel</h1>
@@ -12,4 +12,4 @@ const logofoot = () => {
         </div>
     )
 }
-export default logofoot
+export default Logofoot
