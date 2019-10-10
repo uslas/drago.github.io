@@ -2,7 +2,7 @@ import React from 'react'
 
 import '/blog2/Mainfolder/my-app/src/common/style/slider/slides.css'
 
-const slider = () => {
+const Slider = () => {
     return (
         <div className="mainslider row">
         <div className="slides row">
@@ -41,4 +41,4 @@ const slider = () => {
     )
 }
 
-export default slider
+export default Slider

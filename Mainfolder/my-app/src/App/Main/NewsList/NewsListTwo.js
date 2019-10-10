@@ -1,6 +1,6 @@
 import React from 'react'
 
-import '/blog2/Mainfolder/my-app/src/common/style/right_c.css'
+import '/blog2/Mainfolder/my-app/src/App/Main/NewsList/right_c.css'
 
 const NewsListTwo = () => {
     return (

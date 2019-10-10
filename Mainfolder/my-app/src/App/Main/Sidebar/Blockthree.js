@@ -1,6 +1,6 @@
 import React from 'react'
 
-import '/blog2/Mainfolder/my-app/src/common/style/left_c.css'
+import '/blog2/Mainfolder/my-app/src/App/Main/Sidebar/left_c.css'
 
 const Blockthree = () => {
     return (
