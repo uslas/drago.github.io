@@ -9,6 +9,7 @@ const Header = () => {
     return (
         <header className="backgrounds">
 		    <div className="container row">
+            <img className="backph" src="img/Layer37.jpg" alt=""></img>
                 <Logo />
                 <Nav />
             </div>

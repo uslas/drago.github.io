@@ -1,10 +1,10 @@
 import React from 'react'
 
-import '/blog2/Mainfolder/my-app/src/common/style/footer.css'
+import '/blog2/Mainfolder/my-app/src/App/Footer/footer.css'
 
 const Lowerinfo = () => {
     return (
-        <div>
+        <div className="lower_information">
         <div className="case_1">
 				<h1>About Us</h1>
 				<p>About Us</p>

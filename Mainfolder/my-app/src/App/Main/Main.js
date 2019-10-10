@@ -8,8 +8,8 @@ import Blockthree from './Sidebar/Blockthree'
 
 const Main = () => {
     return (
-        <div class="container2 row">
-			<div class="left_col" id="left_c">
+        <div className="container2 row">
+			<div className="left_col" id="left_c">
                 <Blockone/>
                 <Blocktwo/>
                 <Blockthree/>

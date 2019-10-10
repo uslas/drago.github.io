@@ -5,7 +5,7 @@ import '/blog2/Mainfolder/my-app/src/App/Main/NewsList/right_c.css'
 const NewsListTwo = () => {
     return (
         <div className="block_2_2">
-						<div className="block_2_3"><img src="img/timetravel11.jpg" alt=""></img><a className="image_sec" href=""><button className="readimg"><p className="read_t">read more</p></button></a>
+						<div className="block_2_3"><img src="img/timetravel11.jpg" alt=""></img><a className="image_sec" href="/"><button className="readimg"><p className="read_t">read more</p></button></a>
 							<div className="date">April 27, 2019</div>
 						</div>
 						<div className="likes"><p className="count_l">1123</p><img className="like" src="img/icon7.png" alt=""></img></div>
@@ -15,7 +15,7 @@ const NewsListTwo = () => {
 							<div className="lines2"></div>
 						<p className="right_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae commodi, cum necessitatibus ea quia accusamus blanditiis dolore dolorem ad voluptate, distinctio adipisci! Tenetur id iusto quibusdam magnam suscipit, ut quia.</p>
 						<div className="l_box"></div>
-							<div className="readm"><a className="readme" href=""><button className="readme_b"><p className="button_text">READ MORE</p></button></a></div>
+							<div className="readm"><a className="readme" href="/"><button className="readme_b"><p className="button_text">READ MORE</p></button></a></div>
 							<div className="share"></div>
 						</div>
 					</div>

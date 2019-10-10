@@ -2,7 +2,6 @@ import React,{Component} from 'react'
 
 import './../common/style/base.css'
 import './../common/style/containers.css'
-import './../common/style/footer.css'
 
 
 import Header from './Header/Header'
