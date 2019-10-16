@@ -56,7 +56,10 @@
 	position: absolute;
 	top: 285px;
     left: 20px;
-    color: #070564;
+	color: #070564;
+	display: flex;
+	width: 100px;
+    justify-content: space-evenly;
 }
 .likes {
 	position: relative;

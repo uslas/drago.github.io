@@ -12,5 +12,9 @@
     "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",
     "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "react-slick": "^0.25.2",
+    "slick-carousel": "^1.8.1"
   }
 }

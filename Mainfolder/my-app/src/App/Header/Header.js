@@ -1,7 +1,7 @@
 import React from 'react'
-
 import Logo from './Logo/Logo'
 import Nav from './Nav/Nav'
+import Sliker from './Slider/Slidering'
 
 
 
@@ -12,6 +12,7 @@ const Header = () => {
             <img className="backph" src="img/Layer37.jpg" alt=""></img>
                 <Logo />
                 <Nav />
+                <Sliker/>
             </div>
     </header>
     )

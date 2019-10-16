@@ -11,11 +11,11 @@ const Blocktwo = () => {
 						<div className="line"></div>
 					</div>
 					<div className="r_content">
-						<div className="recent_info"><a href="#"><img className="r_img" alt=""></img></a><p>This photo is awesome</p></div>
-						<div className="recent_info"><a href="#"><img className="r_img" alt=""></img></a><p>This photo is awesome</p></div>
-						<div className="recent_info"><a href="#"><img className="r_img" alt=""></img></a><p>This photo is awesome</p></div>
-						<div className="recent_info"><a href="#"><img className="r_img" alt=""></img></a><p>This photo is awesome</p></div>
-						<div className="recent_info"><a href="#"><img className="r_img" alt=""></img></a><p>This photo is awesome</p></div>
+						<div className="recent_info"><a href="1"><img className="r_img" alt=""></img></a><p>This photo is awesome</p></div>
+						<div className="recent_info"><a href="2"><img className="r_img" alt=""></img></a><p>This photo is awesome</p></div>
+						<div className="recent_info"><a href="4"><img className="r_img" alt=""></img></a><p>This photo is awesome</p></div>
+						<div className="recent_info"><a href="5"><img className="r_img" alt=""></img></a><p>This photo is awesome</p></div>
+						<div className="recent_info"><a href="6"><img className="r_img" alt=""></img></a><p>This photo is awesome</p></div>
 					</div>
 		</div>
     )

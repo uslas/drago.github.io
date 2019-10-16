@@ -2,10 +2,13 @@
 	position: absolute;
 	margin: 10px auto;
 	width: 800px;
-	height: 100px;
+    height: 100px;
+    top: 50%;
+    right: -15%;
 }
 .slides {
-	position: relative;
+    position: relative;
+    display:flex;
 }
 .text_sl {
 	margin-left:200px;
