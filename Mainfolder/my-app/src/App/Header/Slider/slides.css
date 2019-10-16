@@ -3,12 +3,11 @@
 	margin: 10px auto;
 	width: 800px;
     height: 100px;
-    top: 50%;
-    right: -15%;
+    top: 80%;
 }
 .slides {
     position: relative;
-    display:flex;
+    display:flex !important;
 }
 .text_sl {
 	margin-left:200px;
@@ -43,3 +42,6 @@
     height: 55px;
     cursor: pointer;
 }
+#blocking_sl {
+    display: flex !important;
+} 
